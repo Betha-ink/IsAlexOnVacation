@@ -4,6 +4,6 @@ This is probably a question you have asked yourself multiple times a day, but th
 
 ## Installation
 
-First, add the domain name and API key of Alex's DAWARICH Server to the docker-compose.yml, and then everything should be ready. With docker compose up, everything should be up and running within seconds.
+First, add the domain name and API key of Alex's DAWARICH Server to the `docker-compose.yml`, and then everything should be ready. With `docker compose up`, everything should be up and running within seconds.
 
 I hope you enjoy your stalking activities.
